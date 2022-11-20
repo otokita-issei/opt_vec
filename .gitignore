@@ -2,3 +2,4 @@ data/
 optical_depth/
 *.o
 main
+opt_vec3.cpp
