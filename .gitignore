@@ -1,5 +1,4 @@
 data/
 optical_depth/
-.gitignore
 *.o
 main
