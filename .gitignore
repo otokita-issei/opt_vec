@@ -1,0 +1,4 @@
+data/
+optical_depth/
+*.o
+main
